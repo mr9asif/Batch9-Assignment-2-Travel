@@ -234,7 +234,7 @@ select{
   .img-div{
     width:350px;
     height: 300px;
-    border:1px solid red;
+    /* border:1px solid red; */
     border-radius: 15px;
     background-image:url(/Images/Rectangle\ 7.png); 
     
@@ -367,7 +367,7 @@ select{
     justify-content: space-between;
     align-items:flex-start;
     padding: 15px;
-    border:1px solid;
+    /* border:1px solid; */
     border-radius: 10px;
     background-color: rgb(222, 213, 201);
     margin-right: 20px;
@@ -387,7 +387,7 @@ select{
     justify-content: space-between;
     align-items:flex-start;
     padding: 15px;
-    border:1px solid;
+    /* border:1px solid; */
     border-radius: 10px;
     background-color: rgb(233, 235, 228);
     margin-right: 20px;
@@ -401,6 +401,9 @@ select{
     font-size: 14px;
     width: 400px;
  }
+ .card>i{
+   font-size: 42px;
+}
  .card-2>i{
     font-size: 50px;
  }
