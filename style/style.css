@@ -20,7 +20,7 @@ body{
     max-width: 1250px;
     width: 95%;
     margin: 0 auto;
-    /* display: none; */
+     /* display: none; */ */ */
 }
 /* ------nav------ */
 .menu{
@@ -35,7 +35,7 @@ body{
     align-items: center;
     width: 100%;
     height: 80px;
-   /* display: none; */ */
+     /* display: none;   */
 }
 .logo{
     display: flex;
@@ -57,7 +57,7 @@ body{
     font-size: 16px;
     margin: 1rem;
     padding: .6rem;
-    /* display: none; */
+    /* display: none; */ */
 }
 ul li a{
     text-decoration: none;
@@ -76,10 +76,11 @@ ul li:hover{
     align-items:center;
     width: 100%;
     height: 500px;
-    border: 1px solid;
+    /* border: 1px solid; */
+    border-radius: 10px;
     background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)), url(../Images/Group\ 13\ \(1\)\ \(1\).png);
     background-size: cover;
-     /* display: none;  */
+     /* display: none;    */
 }
 .banner1-title{
     font-size: 50px;
@@ -148,7 +149,7 @@ select{
     justify-content: space-between;
     align-items: center;
     margin-top:3.7rem;
-     /* display: none;  */
+      /* display: none;  */ */ */ */
 }
 .banner2-text{
     display: flex;
@@ -207,7 +208,7 @@ select{
     align-items: center;
     justify-content: center;
     margin: 4rem auto;
-    /* /* display: none;   */
+     /* display: none;   */ */ */
   }
   .container1-title{
     font-size: 30px;
@@ -228,7 +229,7 @@ select{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* display: none; */
+     /* display: none; */ */ */
   }
   .img-div{
     width:350px;
@@ -260,7 +261,7 @@ select{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    display: none;
+     /* display: none; */ */ */
    
   }
  .maldives{
@@ -333,7 +334,7 @@ select{
     justify-content: center;
     align-items: center;
     /* border:1px solid; */
-    /* display: none; */
+     /* display: none; */ */
  } 
  .container2-text{
     display: flex;
@@ -413,6 +414,7 @@ select{
    align-items: center;
    padding: 20px 15px;
    background-color: rgb(226, 102, 53);
+   /* display: none; */
  }
  .cb-1{
    display: flex;
@@ -439,6 +441,7 @@ select{
    display: flex;
    justify-content: space-between;
    align-items: center;
+   /* display: none; */
  }
  .cr1-1{
    width:350px;
@@ -554,6 +557,7 @@ background-size: cover;
     width: 95%;
     margin: 0 auto;
     margin-top: 30px;
+    /* display: none; */
 }
 
  .container-3-1{
@@ -630,7 +634,7 @@ border-radius: 20px;
         width: 95%;
         margin: 0 auto;
         margin-top: 30px;
-        /* display: none; */
+        /* display: none; */ */
     }
      .container-3-2{
     display: flex;
@@ -723,7 +727,7 @@ border-radius: 20px;
    display: flex;
    justify-content: space-between;
    align-items: center;
-   /* display: none; */
+   /* display: none;  */ */
 }
 .simple-text{
    width:700px;
