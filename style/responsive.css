@@ -8,6 +8,12 @@
         width: 95%;
         margin: 0 auto;
     }
+    .navigation>ul>li{
+        display: none;
+    }
+    .menu{
+        display:flex;
+    }
     .banner-1{
         width:100%;
         margin: 0 auto;
