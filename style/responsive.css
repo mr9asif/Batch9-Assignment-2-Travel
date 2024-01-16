@@ -1,1 +1,348 @@
+/* ---------------Media small screen- ----------*/
 
+@media only screen and (max-width:600px){
+    /* -------banner--- */
+    /* --------Banner-1----------- */
+    .body{
+        max-width: 500px;
+        width: 95%;
+        margin: 0 auto;
+    }
+    .banner-1{
+        width:330px;
+        flex-direction: column;
+    }
+    .banner1-input{
+        flex-direction: column;
+        opacity: .6;
+    }
+    .input{
+        height: 30px;
+    }
+    .banner1-title{
+        font-size: 25px;
+    }
+    .banner1-para{
+        font-size: 12px;
+        display: flex;
+        margin: 4px auto;
+        margin-left: 8px;
+    }
+    .banner1-para p{
+        font-size: 12px;
+    }
+
+    .find {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 10px 40px;
+        padding: 5px 15px;
+        border: 0;
+        border-radius: 80px;
+        background-color: tomato;
+        height: 40px;
+        width:75%;
+        
+    }
+    .input-btn{
+        margin-left: -50px;
+    }
+    /* ----------------Banner-2------------ */
+    .banner-2{
+        flex-direction: column;
+        margin-bottom: 4rem;
+    }
+    .banner2-text{
+        width:100%;
+        position: relative;
+        top:0px
+    }
+    .banner2-title {
+        font-size: 20px;
+        margin: 8px auto;
+ 
+    }
+    .banner2-para {
+        font-size:.9rem;
+        margin-bottom: 0;
+        margin: 20px auto;
+    }
+    .li{
+        font-size: .9rem;
+    }
+    .banner2-para2{
+        font-size: .9rem;
+    }
+    .banner2-img img{
+        width: 100%;
+    }
+    /* --------main------ */
+     .main{
+        width: 100%;
+
+     }
+     /* --section-0------ */
+     .container-3-0{
+        flex-direction: column;
+     }
+     .container1-text{
+        width: 100%;
+     }
+     .container1-title {
+        font-size: 25px;
+     }
+     .container1-para p{
+        width:280px;
+        font-size: .9rem;
+        margin-bottom: 0;
+        margin:10px auto;
+     }
+     /* ----img--container---------- */
+     .container-img{
+        flex-direction: column;
+     }
+     .img-div-1{
+        flex-direction: column;
+        width: 100%;
+     }
+     .maldives{
+        width:330px;
+        margin-bottom: 15px;
+     }
+     .Indonesia  {
+        width: 330px;
+        margin-bottom: 15px;
+     }
+     .Srilanka {
+        width: 330px;
+        margin-bottom: 15px;
+     }
+     .North{
+        width: 330px;
+        margin-bottom: 15px;
+     }
+     .Bangladesh{
+        width: 330px;
+        margin-bottom: 15px;
+     }
+     .kasmir{
+        width: 330px;
+        margin-bottom: 15px;
+     }
+     .Bandarban{
+        width: 330px;
+        margin-bottom: 15px;
+     }
+    
+     .img-div-2{
+        flex-direction: column;
+        width: 100%;
+        margin-left:20px;
+     }
+     .img-div-3{
+        flex-direction: column;
+     }
+     /* -------------container-2-------- */
+     .container-2{
+        flex-direction: column;
+
+     }
+     .container2-card{
+        flex-direction: column;
+        justify-content: center;
+        align-self:center;
+        margin: 0 auto;
+     }
+     .card{
+        flex-direction: column;
+        width: 90%;
+        height: 250px;
+        margin: 10px auto;
+        align-items: center;
+        position: relative;
+        right: 20px;
+     }
+     .card2-parent{
+        width:100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+     }
+     .card-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20px;
+     }
+     .card-title{
+        font: 20px;
+     }
+     .card-para{
+        font-size: 12px;
+        margin-left: 20px;
+     }
+     /* -----------creation--banner----- */
+     .creation-banner{
+        margin: .5rem auto;
+     }
+     .cb-1{
+        padding-right: 6px;
+        gap:.5rem
+     }
+        .cb-1-title{
+            font-size: 20px;
+        }
+        .cb-1-para{
+            font-size: 10px;
+        }
+        /* ----------cration-1------------- */
+        .creation-1{
+            flex-direction: column;
+          
+        }
+        .cr1-1{
+            width: 100%;
+            margin-bottom: 10px;
+        }
+    /* ---------------section------------- */
+    .section-parent{
+        width: 100%;
+    }
+    .container3-text{
+        width: 83%;
+        margin: 0 auto;
+        padding: 10px;
+    }
+    .container3-text-title{
+        font-size: 25px;
+        margin: 8px auto;
+    }
+    .container3-text-para{
+        font-size: .9rem;
+        margin: 5px auto;
+    }
+    .contaner3-img{
+        width: 100%;
+    }
+    .container3-img-0{
+        width: 100%;
+        margin: 5px auto;
+    }
+    .container3-img-para{
+        width: 100%;
+        font-size: .8rem
+    }
+    .icon-00{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        right:40px;
+    }
+    .i{
+        position: relative;
+        right:160px; 
+    }
+    .icon01{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .icon-00 p{
+        font-size: 10px;
+        position: relative;
+        left: 30px;
+    }
+    /* ---section-2---- */
+    .contaner31-img .icon-00{
+                        
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            position: relative;
+            right:40px;
+        }
+        .icon01{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+    
+    }
+        .simple-para{
+            font-size: .9rem;
+            margin: 5px auto;
+            position: relative;
+            left: 20px;
+        }
+        .sl{
+            font-size: .9rem;
+            margin: 5px auto;
+            position: relative;
+            left: 20px;
+        }
+        .simple-container{
+            flex-direction: column;
+            width: 100%;
+            margin: 5px auto;
+        }
+        .simple-text{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 6px auto;
+            margin-bottom: 10px;
+        }
+        .simple-video{
+            width: 100%;
+        }
+        .simple-video .video{
+            width:100%
+        }
+        /* ---Newsleter -container------ */
+        .newsletter-container{
+            flex-direction:column;
+        }
+        .newsletter-form{
+            display:flex;
+            flex-direction: column;
+            justify-content:flex-start;
+            align-items:center;
+            margin-bottom: 20px;
+        }
+        .pakege{
+            width: 100%;
+        }
+        
+        .newsletter-img{
+            width: 100%;
+        }
+        .newsletter-add{
+            width: 160px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            left: 120px;
+            bottom: 100px;
+
+        }
+        .add-title{
+            font-size: 10px;
+            
+        }
+        add.para{
+            font-size:5px;
+        }
+        /* footer--------------- */
+        .footer{
+            width: 100%;
+        }
+    }
